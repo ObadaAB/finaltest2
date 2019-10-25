@@ -4,4 +4,10 @@ public class Algorithms
     {
         return a;
     }
+
+    public int getKthMinimum(int[] a, int k)
+    {
+        a = sorted(a);
+        return a[k];
+    }
 }
