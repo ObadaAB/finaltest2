@@ -13,6 +13,11 @@ public class Algorithms
 
     public void swap(Object a, Object b)
     {
-        
+
+    }
+
+    public int compare()
+    {
+        return 1;
     }
 }
