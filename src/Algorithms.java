@@ -10,4 +10,9 @@ public class Algorithms
         a = sorted(a);
         return a[k];
     }
+
+    public int compare()
+    {
+        return 1;
+    }
 }
